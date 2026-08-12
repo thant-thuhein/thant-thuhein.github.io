@@ -1,0 +1,1 @@
+This is my first blog post. I'm building my blog using Obsidian and Hugo on my Mac.
